@@ -1,18 +1,15 @@
-## Getting Started
+# Pathfinder on Directed Graph
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Eighth Grade Assignment. The goal was to find all the possible routes from a node to another node in a Directed Graph, and as a bonus, I was also able to find all the loops on the way, if any
 
-## Folder Structure
+## Objective
+Find all routes from one node to another one on any Directed Graph
 
-The workspace contains two folders by default, where:
+## Result
+As an example, using this test case
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+![image](https://user-images.githubusercontent.com/88684972/185219290-bccc2be3-b912-4c66-807f-e76bca7a47df.png)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Find all the routes to go from `[1]` to `[11]`
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![image](https://user-images.githubusercontent.com/88684972/185218776-6a20e529-4411-4681-bf69-3def9e099f94.png)
