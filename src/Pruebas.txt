@@ -1,0 +1,121 @@
+Grafo super sencillo
+3
+1
+2
+3
+2
+3
+ 
+
+===
+
+Grafo sencillo con una division
+4
+1
+2
+3
+4
+2 3
+4
+4
+ 
+
+===
+
+Grafo con un bucle
+5
+1
+2
+3
+4
+5
+2
+3
+4 5
+2
+ 
+
+===
+
+Grafo complejo
+11
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+4 7
+1
+1 2 5
+ 
+2 6 8
+3 9
+4 6 10
+9 11
+5
+9
+10
+
+===
+
+Ejercicio #1
+8
+a
+b
+c
+d
+e
+f
+g
+h
+b e f
+c d g e
+d
+g
+d h
+e
+h
+ 
+===
+
+Ejercicio #2
+8
+a
+b
+c
+d
+e
+f
+g
+h
+d
+e c a
+a f h
+h
+c f g
+g d
+h
+ 
+
+===
+Ejercicio #3
+5
+a
+b
+c
+d
+e
+ 
+ 
+ 
+ 
+ 
+
+
+===
